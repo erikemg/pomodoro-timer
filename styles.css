@@ -1,0 +1,10 @@
+#time-left {
+    display: flex;
+    align-items: center;
+  }
+  
+  .time-part {
+    display: inline-block;
+    margin-right: 5px;
+  }
+  
